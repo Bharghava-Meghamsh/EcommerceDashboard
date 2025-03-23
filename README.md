@@ -1,6 +1,6 @@
 ## 📊 E-Commerce Sales and Profit Analysis Dashboard  
 
-![Dashboard Preview](dashboard.png)  
+![Dashboard Preview](Dashboard.png)  
 
 🚀 **Built an interactive Power BI dashboard to analyze e-commerce sales, customer insights, and profit trends.**  
 
