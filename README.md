@@ -23,11 +23,3 @@
 - **Power Query** – Data transformation  
 
 ---
-
-
----
-
-## 🔗 Project Link  
-[GitHub Repository](your_github_repo_link_here)  
-
-Feel free to contribute or share your feedback! 🚀
